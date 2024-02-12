@@ -2,7 +2,7 @@
     {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
+      "repo": "https://github.com/keiko233/kernel_xiaomi_odin",
       "branch": "TDA",
       "device": "odin"
     },
@@ -15,7 +15,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "13",
+        "branch": "11",
         "name": "clang"
       }
     ],
@@ -29,9 +29,9 @@
       "CC": "clang"
     },    
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
+      "name": "miui-KernelSU",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "branch": "odin-r-oss",
       "device": "odin"
     },
     "withKernelSU": true,
